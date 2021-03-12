@@ -13,7 +13,7 @@ void main()
 		{
 			printf("%d",k);
 		}
-		printf("\n");
+		printf("\n\n");
 	}
 	getch();
 }
